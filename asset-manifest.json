@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/dariusnarib/static/css/main.6be579ae.css",
+    "main.js": "/dariusnarib/static/js/main.d2e54376.js",
+    "static/js/787.dee3642c.chunk.js": "/dariusnarib/static/js/787.dee3642c.chunk.js",
+    "static/media/Native Final.png": "/dariusnarib/static/media/Native Final.1d8029735711f773e3f8.png",
+    "static/media/multi.png": "/dariusnarib/static/media/multi.099cdee7bb20c416b216.png",
+    "static/media/JavascriptComplete.png": "/dariusnarib/static/media/JavascriptComplete.6e5bfc1cad68020cc266.png",
+    "static/media/Python.png": "/dariusnarib/static/media/Python.9812510c31dfaf257340.png",
+    "static/media/universe.png": "/dariusnarib/static/media/universe.489d59502f381ee83936.png",
+    "static/media/Node.png": "/dariusnarib/static/media/Node.96b065ad720eebbc4444.png",
+    "static/media/ReactComplete.png": "/dariusnarib/static/media/ReactComplete.eeab9d5c13df7129b034.png",
+    "static/media/CSSComplete.png": "/dariusnarib/static/media/CSSComplete.9cb77bd06f6d58015d5f.png",
+    "static/media/HtmlFinal.png": "/dariusnarib/static/media/HtmlFinal.664091c4af5f8b2dfff9.png",
+    "index.html": "/dariusnarib/index.html",
+    "main.6be579ae.css.map": "/dariusnarib/static/css/main.6be579ae.css.map",
+    "main.d2e54376.js.map": "/dariusnarib/static/js/main.d2e54376.js.map",
+    "787.dee3642c.chunk.js.map": "/dariusnarib/static/js/787.dee3642c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6be579ae.css",
+    "static/js/main.d2e54376.js"
+  ]
+}
